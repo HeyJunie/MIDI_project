@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/drive/MyDrive/MIDI_project/data/train/model.ckpt-5002"
+all_model_checkpoint_paths: "/content/drive/MyDrive/MIDI_project/data/train/model.ckpt-4781"
+all_model_checkpoint_paths: "/content/drive/MyDrive/MIDI_project/data/train/model.ckpt-4910"
+all_model_checkpoint_paths: "/content/drive/MyDrive/MIDI_project/data/train/model.ckpt-5000"
+all_model_checkpoint_paths: "/content/drive/MyDrive/MIDI_project/data/train/model.ckpt-5001"
+all_model_checkpoint_paths: "/content/drive/MyDrive/MIDI_project/data/train/model.ckpt-5002"
